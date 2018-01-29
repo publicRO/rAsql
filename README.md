@@ -1,3 +1,5 @@
+Source: https://github.com/rathena/rAsql
+
 rAsql
 =======
 This server is meant for locally TESTING rAthena only, and should not be used for hosting a public rAthena server. To host a public rAthena server, you should use a Dedicated Server or VPS.
