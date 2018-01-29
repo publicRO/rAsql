@@ -52,13 +52,14 @@ ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,
 ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
 ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
 ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastUsageStatisticCall<|||>1<|||>2018-01-25 22:32:59
 Servers\rAthena\Host<|||>1<|||>localhost
 Servers\rAthena\User<|||>1<|||>ragnarok
 Servers\rAthena\Password<|||>1<|||>78676D74677875716
 Servers\rAthena\Port<|||>1<|||>3306
 Servers\rAthena\NetType<|||>3<|||>0
 Servers\rAthena\Compressed<|||>3<|||>1
-Servers\rAthena\lastUsedDB<|||>1<|||>ragnarok_log
-Servers\rAthena\ConnectCount<|||>3<|||>1
+Servers\rAthena\lastUsedDB<|||>1<|||>ragnarok
+Servers\rAthena\ConnectCount<|||>3<|||>3
 Servers\rAthena\ServerVersion<|||>3<|||>50067
-Servers\rAthena\LastConnect<|||>1<|||>2018-01-25 22:28:23
+Servers\rAthena\LastConnect<|||>1<|||>2018-01-26 19:42:50
